@@ -1,5 +1,5 @@
 {% set name = "hijri-converter" %}
-{% set version = "2.2.0" %}
+{% set version = "2.2.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/hijri-converter-{{ version }}.tar.gz
-  sha256: db9a5f31c884254163af6a1c39be81c807a5e897ba9587624d6706dd1048f160
+  sha256: 73b3a7848a6de8fbe737dd0cc86434a3eb2b267483ea678e2272c2c107acf327
 
 build:
   number: 0
