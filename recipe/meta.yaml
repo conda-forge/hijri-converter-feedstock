@@ -11,7 +11,7 @@ source:
   sha256: d4a10db009c1417592bbfb3debecadfa04d8d8d5d51b64a971e969d761a9f3e1
 
 build:
-  number: 0
+  number: 1
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
 
@@ -32,13 +32,12 @@ test:
     - pip
 
 about:
-  home: https://github.com/dralshehri/hijri-converter
-  summary: Accurate Hijri-Gregorian date converter based on the Umm al-Qura calendar
+  home: https://github.com/mhalshehri/hijri-converter
+  summary: Accurate Hijri-Gregorian dates converter based on the Umm al-Qura calendar
   license: MIT
   license_file: LICENSE
 
 extra:
   recipe-maintainers:
     - mhalshehri
-    - dralshehri
     - synapticarbors
