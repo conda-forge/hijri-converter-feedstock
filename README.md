@@ -1,11 +1,11 @@
-About hijri-converter
-=====================
+About hijri-converter-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/hijri-converter-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/mhalshehri/hijri-converter
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/hijri-converter-feedstock/blob/main/LICENSE.txt)
 
 Summary: Accurate Hijri-Gregorian dates converter based on the Umm al-Qura calendar
 
